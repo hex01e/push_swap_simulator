@@ -12,4 +12,4 @@ usage : `./simulator.py [push_swap path]`
 
 
 
-![](screen2.png)
+![](screen1.png)
