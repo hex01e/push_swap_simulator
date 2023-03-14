@@ -6,10 +6,7 @@ And this program is simulator of all the insurrections , and visualizer for your
 
 ## Usage
 usage : `./simulator.py [push_swap path]`
+or if you want use only the sumilator: `./simulator.py -n`
 
 
 ![](screen.png)
-
-
-
-![](screen2.png)
