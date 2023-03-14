@@ -5,7 +5,9 @@ Push Swap is a program that takes as argument a space separated list of numbers 
 And this program is simulator of all the insurrections , and visualizer for your push_swap program
 
 ## Usage
+
 usage : `./simulator.py [push_swap path]`
+
 or if you want use only the sumilator: `./simulator.py -n`
 
 
